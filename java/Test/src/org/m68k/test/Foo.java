@@ -1,7 +1,7 @@
 package org.m68k.test;
 
 /**
- * Test 21134.
+ * Test 0.
  */
 public class Foo {
 
