@@ -1,7 +1,7 @@
 package org.m68k.test;
 
 /**
- * X
+ * X2
  */
 public class Bar {
 
