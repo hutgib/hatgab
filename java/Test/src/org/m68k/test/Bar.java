@@ -1,7 +1,7 @@
 package org.m68k.test;
 
 /**
- * X4
+ * X4rebased
  */
 public class Bar {
 
